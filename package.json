@@ -1,6 +1,6 @@
 {
   "name"         : "iab_verifier",
-  "version"      : "0.1.0",
+  "version"      : "0.1.1",
   "description"  : "Google In App Billing Receipt Validation",
   "keywords"     : ["android", "iab", "in app billing", "verifier", "verify", "verify android purchase", "verify google purchase"],
   "homepage"     : "https://github.com/ajones/iab_verifier",
