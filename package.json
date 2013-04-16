@@ -1,0 +1,13 @@
+{
+  "name"         : "iab_verifier",
+  "version"      : "0.1",
+  "description"  : "Google In App Billing Receipt Validation",
+  "keywords"     : ["android", "iab", "in app billing", "verifier", "verify", "verify android purchase", "verify google purchase"],
+  "homepage"     : "https://github.com/ajones/iab_verifier",
+  "author"       : "Aaron Jones",  
+  "main"         : "./lib/iab_verifier",
+  "directories"  : {"lib"  : "./lib"},
+  "repository"   : {"type" : "git",  "url": "https://github.com/ajones/iab_verifier.git"},
+  "engines"      : {"node" : ">= 0.10.1"},
+  "dependencies" : {"crypto"        :  "*"}
+}
