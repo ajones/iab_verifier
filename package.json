@@ -9,5 +9,5 @@
   "directories"  : {"lib"  : "./lib"},
   "repository"   : {"type" : "git",  "url": "https://github.com/ajones/iab_verifier.git"},
   "engines"      : {"node" : ">= 0.10.1"},
-  "dependencies" : {"crypto"        :  "*"}
+  "dependencies" : {"crypto" :  "*"}
 }

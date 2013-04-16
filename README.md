@@ -29,7 +29,7 @@ Javascript:
 
     var isValid = googleplayVerifier.verifyReceipt(receiptData,receiptSignature);
 
-    if (result) {
+    if (isValid) {
         // Receipt is valid. Grab a beer celebrate!
     } else {
         // Receipt is NOT valid... 
